@@ -1,0 +1,36 @@
+
+body {
+  background-color: lightblue;
+}
+img {
+  background-color: #FFCCCC;
+  opacity: 0.6;
+  weight: 160px;
+  height: 160px;
+  align: center;
+}
+p.outset {border-style: outset;
+border-color: #FFCCCC;}
+.serif {
+  font-family: "Times New Roman", Times, serif;
+}
+ul.b {
+  list-style-type: square;
+  
+}
+div {
+  background-color: #FFCCCC;
+  width: 160px;
+  border: 15px ;
+  padding: 50px;
+  margin: 50px;
+  align: center;
+  
+}
+h3.nume { font-family: "Verdana";
+			font-style: italic;
+			font-size: 36px;
+			color: violet;
+}
+h1 {color: pink;}
+
